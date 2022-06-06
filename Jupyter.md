@@ -10,6 +10,14 @@ pip install jupyterlab-language-pack-zh-CN
 
 Setting --> Language
 
+## 主题更换
+
+`jt -l`查看主题
+
+`jt -t <theme name>`更换主题
+
+`jt -r`切换原主题
+
 ## 快捷键
 
 ![image-20220604233136050](https://enzhewu.oss-cn-hangzhou.aliyuncs.com/pic/image-20220604233136050.png)
